@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Veljko Lazic
-- 👀 I’m interested in Computer science, Computer engineering, Machine learning
-- 🌱 I’m currently learning Computer science and computer engineering
+- 🌱 I’m currently studying computer science and computer engineering
 - 📫 How to reach me veljkolazic117@gmail.com
