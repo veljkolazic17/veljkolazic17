@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Veljko Lazic
-- 🌱 I’m currently studying computer science and computer engineering
-- 📫 How to reach me veljkolazic117@gmail.com || lv190241d@student.etf.bg.ac.rs
+- 🌱 Game Developer @ Ubi
+- 📫 How to reach me veljkolazic2000@proton.me (don't expect fast response :))
 
 
 
